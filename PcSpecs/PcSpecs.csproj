@@ -7,6 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>pc.ico</ApplicationIcon>
+    <Company>J0nathan550</Company>
   </PropertyGroup>
 
   <ItemGroup>
